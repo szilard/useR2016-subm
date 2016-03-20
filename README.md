@@ -15,7 +15,7 @@ learning libraries (benchmarks will be presented), while high-performance and pa
 have been part of the R ecosystem for many years. Nevertheless, the R community shall of course continue 
 pushing the boundaries and extend R with new and ever more performant features.
 
-*A few of my blog posts/github repos this talk will be based on:*
+**A few of my blog posts/github repos this talk will be based on:**
 
 **1.** Size of datasets used for analytics based on 10 years of surveys by KDnuggets. While reported dataset 
 sizes have increased at 20%/year rate, RAM in typical servers/EC2 has increased at 50%/year (in average in
